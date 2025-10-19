@@ -29,16 +29,16 @@ open file lib/src/core/network/api_constants.dart
  or you make store it in .env file
 
 ### 3. Install dependencies you need such
-  # State Management
+ State Management
   flutter_bloc: ^9.1.1
   bloc: ^9.1.0
-  # Network
+ Network
   dio: ^5.9.0
   freezed: ^3.2.3
   freezed_annotation: ^3.1.0
-  # Cache Image
+ Cache Image
   cached_network_image: ^3.4.1
-  # Environment Variables
+ Environment Variables
   flutter_dotenv: ^6.0.0
 
 flutter pub get
