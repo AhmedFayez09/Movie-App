@@ -19,7 +19,7 @@ It supports **pagination**, **search**, and **detailed movie view with Hero anim
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/AhmedFayez09/Movie-App
 cd movie_app
 
