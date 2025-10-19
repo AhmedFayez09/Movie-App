@@ -45,3 +45,23 @@ flutter pub get
 
 
 ### 4. flutter run
+
+
+
+
+
+## 🏗️ Architecture Overview
+
+
+lib/
+├── src/
+│   ├── core/
+│   │   ├── config/
+│   │   ├── network/
+│   │   ├── widgets/
+│   ├── features/
+│   │   ├── home/
+│   │   │   ├── logic / (repositories & models)
+│   │   │   ├── presentation/ (manager & screens & widgets)
+
+
